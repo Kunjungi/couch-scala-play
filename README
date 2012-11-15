@@ -1,4 +1,8 @@
-This is your new Play 2.0 application
-=====================================
+Example of accessing Couchbase 2.0 from Play 2.0 using Scala
+============================================================
 
-This file will be packaged with your application, when using `play dist`.
+This code is an adaption from a Couchbase - Play 2.0 - Java example conceived by Michael Nitschinger
+https://github.com/daschl/couchplay/
+http://nitschinger.at/A-Real-Time-chat-with-Play-Java-and-Couchbase-Part-1
+
+
